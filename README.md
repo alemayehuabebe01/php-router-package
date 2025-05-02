@@ -26,4 +26,4 @@ A lightweight, high-performance PHP router with middleware support and RESTful r
 Install via Composer:
 
 ```bash
-composer require your-vendor/php-router
+composer require alexsabebe/php-router
