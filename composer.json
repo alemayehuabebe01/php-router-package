@@ -2,7 +2,7 @@
     "name": "alexsabebe/php-router",
     "description": "I try to build PHP router package to make for developer esay work load anlso course purpose",
     "require": {
-        "php": "^7.3"
+        "php": "8.2.12"
     },
     "license": "MIT",
     "autoload": {
